@@ -1,0 +1,33 @@
+ What is Python?
+Python is a widely used high-level programming language created by Guido
+van Rossum in the late 1980s.
+
+The language places strong emphasis on code
+readability and simplicity, making it possible for programmers to develop
+applications rapidly.
+
+Like all high level programming languages, Python code resembles the
+English language which computers are unable to understand.
+
+If you are new to programming, Python is a great place to start. One of the
+key features of Python is its simplicity, making it the ideal language for
+beginners to learn. Most programs in Python require considerably fewer
+lines of code to perform the same task compared to other languages such as
+C. This leads to fewer programming errors and reduces the development
+time needed. In addition, Python comes with an extensive collection of third
+party resources that extend the capabilities of the language. As such, Python
+can be used for a large variety of tasks, such as for desktop applications,
+database applications, network programming, game programming and even
+mobile development. Last but not least, Python is a cross platform
+language, which means that code written for one operating system, such as
+Windows, will work well on Mac OS or Linux without making any changes
+to the Python code.
+Convinced that Python is THE language to learn? Let’s get started...
+
+
+___________________________________________________________________________________________________________________________________________________
+# First project
+# print Hello World by python and write the Output as a comment
+
+print("Hello World")    # Hello World 'this is a comment , we use # to write single line as a comment '
+
